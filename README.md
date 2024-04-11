@@ -1,6 +1,6 @@
 # Algorithms and Data Structures Course Projects
 
-This repository contains four mini-projects developed as part of an Algorithms and Data Structures course. Each project focuses on implementing different algorithms or data structures. A small report (in italian) on the exercises 1 to 3 can be found [here](google.com). 
+This repository contains four mini-projects developed as part of an Algorithms and Data Structures course. Each project focuses on implementing different algorithms or data structures. A small report (in italian) on the exercises 1 to 3 can be found [here](https://github.com/bruno-luca/Algorithms-and-Data-Structures/blob/main/AlgoReport.pdf). 
 
 Below is a brief description of each exercise:
 
