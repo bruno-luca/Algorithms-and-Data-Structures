@@ -1,0 +1,9 @@
+*.csv
+*.o
+*.txt
+*tmp*
+.DS_Store
+ex3-4/out
+python
+*ipynb*
+*bin
