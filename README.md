@@ -1,6 +1,8 @@
 # Algorithms and Data Structures Course Projects
 
-This repository contains four mini-projects developed as part of an Algorithms and Data Structures course. Each project focuses on implementing different algorithms or data structures. Below is a brief description of each exercise:
+This repository contains four mini-projects developed as part of an Algorithms and Data Structures course. Each project focuses on implementing different algorithms or data structures. A small report (in italian) on the exercises 1 to 3 can be found [here](google.com). 
+
+Below is a brief description of each exercise:
 
 ## Exercise 1 - Merge-BinaryInsertion Sort (C)
 
