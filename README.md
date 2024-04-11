@@ -27,4 +27,4 @@ I would like to express my gratitude to:
 - @[FraBrunoPersonal](https://github.com/FraBrunoPersonal) 
 - @[smilefabri](https://github.com/smilefabri)
 
-who have helped in the debugging process of some bugs :)
+who have helped in the debugging process :)
